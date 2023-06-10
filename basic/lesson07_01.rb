@@ -1,3 +1,2 @@
-p "Good Morning".index("d")
-p "Good Morning".length
-p "Good Morning".class
+p (10>1) 
+p (10>1).class
