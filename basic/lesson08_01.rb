@@ -1,9 +1,8 @@
-a = Array.new(3)
 
-a[0] = "sato"
-a[1] = "suzuki"
-a[2] = "takahashi"
+arr = [ ["sato","suzuki"],  ["takahashi", "tanaka"] ]
 
-p a[0]
-p a[1]
-p a[2]
+
+p arr[0][0]
+p arr[0][1]
+p arr[1][0]
+p arr[1][0]
