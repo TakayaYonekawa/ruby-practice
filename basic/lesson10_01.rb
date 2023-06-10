@@ -1,7 +1,9 @@
-age = 18
+age = 0
 
 if age >= 20
     p "adult"
-else 
+elsif age == 0
+    p "baby"
+else
     p "child"
 end
