@@ -1,5 +1,6 @@
-def say_hello
-    p "Hello"
+def sayHello(greeting)
+    p greeting
 end
 
-say_hello
+
+sayHello("Good mornig")
