@@ -1,7 +1,6 @@
-def add(num01, num02)
-    return num01 + num02
+def average(num01, num02, num03)
+    return (num01 + num02 + num03 ) /3
 end
 
 
-add_result = add(6 , 2)
-p add_result
+p average(9 , 4 , 2)
