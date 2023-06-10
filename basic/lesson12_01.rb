@@ -1,8 +1,5 @@
-arr = [2,4,6,8,10]
-sum = 0
-
-for i in arr 
-    sum += i
+def say_hello
+    p "Hello"
 end
 
-p sum
+say_hello
