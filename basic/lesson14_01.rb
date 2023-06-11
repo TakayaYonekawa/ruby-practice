@@ -25,3 +25,11 @@ class Student
     attr_accessor :name
 end
 
+
+a001 = Student.new("sato")
+data = [70,65,50,90,30]
+avg = a001.cal_avg(data)
+result = a001.jedge(avg)
+p a001.name
+p avg
+p result
