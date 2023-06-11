@@ -12,7 +12,7 @@ class Student
         return avg
     end
 
-    def jegge (avg)
+    def jedge(avg)
         result = ''
         if 60 <= avg
             result = "passed"
